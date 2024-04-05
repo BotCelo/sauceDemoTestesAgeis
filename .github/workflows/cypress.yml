@@ -18,5 +18,3 @@ jobs:
         with:
           start: npm start
           browser: chrome
-      - name: take screenshot
-            run: 
