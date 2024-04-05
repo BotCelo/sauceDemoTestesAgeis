@@ -4,7 +4,8 @@
   "description": "Testes Automatizados de Interface Gráfica / UI",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "npm cypress run"
   },
   "keywords": [
     "test",
