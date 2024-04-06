@@ -1,4 +1,4 @@
-name: Cypress Tests Run on Pipeline
+name: lighthouse
 on: [push]
 jobs:
   cypress-run:
