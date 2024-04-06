@@ -1,5 +1,5 @@
 name: Cypress Tests Run on Pipeline
-on: [push]
+on: []
 jobs:
   cypress-run:
     runs-on: ubuntu-latest
